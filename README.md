@@ -1,6 +1,6 @@
 BUDGET API
 
-This app helps manage bills. Shows you which bills are paid and which ones have not been paid.
+The point of this is to manage your money rather it paying bills while putting money to the side for vacation. But right now it just manage bills. Shows you which bills are paid and which ones have not been paid.
 
 You would need
 -Visual Code
@@ -128,7 +128,13 @@ Clone repository to your computer
 -go to terminal
 -cd in software_classwork
 -cd in unit_2 
--git clone link
+-mkdir project-2
+-cd project-2
+-git clone link(git@github.com:raykale/budgeting-api.git)
 -ls
 -cd budgeting-api
+-touch .env
 -code .
+-add the .env link
+-npm i
+-npm run test
