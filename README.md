@@ -121,3 +121,14 @@ Steps (*)
 -![follow image](2F7AC5D7-D74B-4879-97A8-DDFE1CC33669.png)
 -![follow image](FEFBBDD1-63B6-4A56-8994-801821215A6F.png)
 -![follow image](89B1F17A-A274-4E97-BACE-B13DE68A9DEB.png)
+
+Clone repository to your computer
+-Click on code(green button)
+-copy ssh link
+-go to terminal
+-cd in software_classwork
+-cd in unit_2 
+-git clone link
+-ls
+-cd budgeting-api
+-code .
